@@ -1,0 +1,32 @@
+*{
+	
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+section{
+	
+	width: 100%;
+}
+
+.navbar{
+	
+	background: linear-gradient(
+              45deg,
+              rgba(29, 236, 197, 0.7),
+              rgba(91, 14, 214, 0.7) 100%
+            ) !important;
+}
+
+.navbar .nav-link{
+	
+	color: #fff !important;
+}
+
+
+.btn-floating{
+	
+	border-radius: 50%;
+	padding:10px 15px;
+}
